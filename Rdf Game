@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<rdf:RDF 
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:cd="http://www.recshop.fake/cd#">
+
+<rdf:Description 
+    rdf:about="https://id.wikipedia.org/wiki/Uncharted_4:_A_Thief's_End">   
+    <dc:title>Uncharted 4</dc:title>
+    <dc:created>May-10-2016</dc:created>
+    <cd:price>54$</cd:price>
+    <dc:description>Set several years after the events of Uncharted 3: Drake's Deception, players control Nathan Drake, a former treasure hunter coaxed out of retirement by his presumed-dead brother Samuel. With Nathan's longtime partner, Victor Sullivan, they search for clues for the location of Henry Avery's long-lost treasure.</dc:description>     
+</rdf:Description>
+
+<rdf:Description 
+    rdf:about="https://id.wikipedia.org/wiki/God_of_War_(permainan_video_2018)"> 
+    <dc:title>God of War (2018)</dc:title>
+    <dc:created>April-20-2018</dc:created>
+    <cd:price>60$</cd:price>
+    <dc:description>: Following the death of Kratos' second wife, and Atreus' mother, they journey to fulfill her request that her ashes be spread at the highest peak of the nine realms. Kratos keeps his troubled past a secret from Atreus, who is unaware of his divine nature. Along their journey, they come into conflict with monsters and gods of the Norse world.</dc:description>     
+</rdf:Description>
+
+<rdf:Description 
+    rdf:about="https://id.wikipedia.org/wiki/Red_Dead_Redemption_2">   
+    <dc:title>Red Dead Redemption 2</dc:title>
+    <dc:created>October-26-2018</dc:created>
+    <cd:price>60$</cd:price>
+    <dc:description>The story is set in 1899 in a fictionalized representation of the Western, Midwestern, and Southern United States and follows outlaw Arthur Morgan, a member of the Van der Linde gang. Arthur must deal with the decline of the Wild West whilst attempting to survive against government forces, rival gangs, and other adversaries. The story also follows fellow gang member John Marston, the protagonist of Red Dead Redemption.</dc:description>     
+</rdf:Description>
+
+<rdf:Description 
+    rdf:about="https://id.wikipedia.org/wiki/Overwatch_(permainan_video)">   
+    <dc:title>Overwatch</dc:title>
+    <dc:created>May-24-2016</dc:created>
+    <cd:price>30$</cd:price>
+    <dc:description>Overwatch is a 2016 team-based multiplayer first-person shooter game developed and published by Blizzard Entertainment. Described as a "hero shooter", Overwatch assigns players into two teams of six, with each player selecting from a large roster of characters, known as "heroes", with unique abilities.</dc:description>     
+</rdf:Description>
+
+<rdf:Description 
+    rdf:about="https://en.wikipedia.org/wiki/Doom_Eternal">   
+    <dc:title>Doom Eternal</dc:title>
+    <dc:created>March-20-2020</dc:created>
+    <cd:price>40$</cd:price>
+    <dc:description>Players once again take on the role of the Doom Slayer who battles the demonic forces of Hell, from a first-person perspective. The game continues its predecessor's emphasis on "push-forward" combat, encouraging the player to aggressively engage enemies in order to acquire health, ammo, and armor.</dc:description>     
+</rdf:Description>
+
+<rdf:Description 
+    rdf:about="https://id.wikipedia.org/wiki/Assassin's_Creed_Unity">   
+    <dc:title>Assassin’s Creed Unity</dc:title>
+    <dc:created>November-11-2014</dc:created>
+    <cd:price>35$</cd:price>
+    <dc:description>The plot is set in a fictional history of real-world events and follows the millennia-old struggle between the Assassins, who fight to preserve peace and free will, and the Templars, who desire peace through control.</dc:description>     
+</rdf:Description>
+
+<rdf:Description 
+    rdf:about="https://id.wikipedia.org/wiki/Battlefield_1">   
+    <dc:title>Battlefield 1</dc:title>
+    <dc:created>October-21-2016</dc:created>
+    <cd:price>20$</cd:price>
+    <dc:description>Battlefield 1 is a first-person shooter video game developed by DICE and published by Electronic Arts. Battlefield 1 is the fifteenth installment in the Battlefield series, and the first main entry in the series since Battlefield 4. It was released worldwide for Microsoft Windows, PlayStation 4, and Xbox One on October 21, 2016.</dc:description>     
+</rdf:Description>
+
+<rdf:Description 
+    rdf:about="https://en.wikipedia.org/wiki/Danganronpa_V3:_Killing_Harmony">   
+    <dc:title>Danganronpa V3</dc:title>
+    <dc:created>January-12-2017</dc:created>
+    <cd:price>25$</cd:price>
+    <dc:description>The game primarily follows Kaede Akamatsu and fifteen other high school students with talented skills who are trapped in a killing game where the culprit must remain innocent or be executed. The player controls Kaede and Shuichi Saihara and interacts with the other characters in the form dating sim-like events, investigate murders and perform in "Class Trials" to uncover the murderer.</dc:description>     
+</rdf:Description>
+
+<rdf:Description 
+    rdf:about="https://en.wikipedia.org/wiki/Nora,_Princess,_and_Stray_Cat">   
+    <dc:title>Nora to Ōjo to Noraneko Heart</dc:title>
+    <dc:created>February-26-2016</dc:created>
+    <cd:price>25$</cd:price>
+    <dc:description>Nora, Princess, and Stray Cat set in a coastal town named Sakuragabuchi (桜ヶ淵). The story's protagonist, Nora Handa, is a student at Sakuragabichi Academy (桜ヶ淵学園, Sakuragabuchi Gakuen). One morning in spring he meets a beautiful girl at a park on his way to school. Her name is Patricia. She is a princess of the underworld whose mission is the eradication of all life. However, she gets sick just after coming to the surface and Nora kindly looks after her while she recovers. Later that same day, a kiss from Patricia transforms Nora into a black cat and the magic of which compels him to serve the demon.</dc:description>
+</rdf:Description>
+
+<rdf:Description 
+    rdf:about="https://id.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_(permainan_video_2019)">   
+    <dc:title>Call of Duty Modern Warfare (2019)</dc:title>
+    <dc:created>October-25-2019</dc:created>
+    <cd:price>50$</cd:price>
+    <dc:description>The game takes place in a realistic and modern setting. The campaign follows a CIA officer and British SAS forces as they team up with rebels from the fictional country of Urzikstan, combating together against Russian forces who have invaded the country.</dc:description>
+</rdf:Description>
+
+</rdf:RDF>
